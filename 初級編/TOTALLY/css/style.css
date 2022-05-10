@@ -90,7 +90,7 @@ nav .login li {
 }
 #item .item-info .order-table .color,
 #item .item-info .order-table .size {
-    width: 20px;
+    width: 20%;
 }
 #item .item-info .order-table .quantity {
     width: 60%;
